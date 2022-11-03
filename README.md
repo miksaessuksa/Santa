@@ -8,7 +8,7 @@ Train a deep learning model which can predict if an image displays Santa Claus o
 
 This notebook includes :
 
-<- Data preprocessing: Generation of batches of tensor image data with real-time data augmentation to train the model 
+<- Data preprocessing: Generation of batches of tensor image data with real-time data augmentation to train the model  
 <- Initialization of a CNN  
 <- Training  
 <- Accuracy and Loss plotting/epoch  
